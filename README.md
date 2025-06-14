@@ -1,6 +1,14 @@
 # Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Learnova    
+• AI-Driven Smart Learning – Powered by Gemini AI, Learnova creates personalized courses, quizzes, and flashcards,      
+making learning more efficient and engaging.    
+• Interactive and Dynamic Content – From auto-generated Q and A sessions to adaptive flashcards, the app ensures an       
+immersive and tailored learning experience for every user.    
+• Seamless and Secure Data Storage – With Firebase integration, all progress, courses, and user data are securely stored,    
+ensuring a smooth and reliable learning journey anytime, anywhere   
+• AI-Driven Smart Learning – Powered by Gemini AI, Learnova creates personalized courses, quizzes, and flashcards, making learning more efficient and engaging. • Interactive and Dynamic Content – From auto-    generated Q and A sessions to adaptive flashcards, the app ensures an immersive and tailored learning experience for every user. • Seamless and Secure Data Storage – With Firebase integration, all progress,    courses, and user data are securely stored, ensuring a smooth and reliable learning journey anytime, anywhere   
+Skills: Google Gemini · Mobile Application Development · Back-End Web Development · Firebase · React Native   
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).    
 
 ## Get started
 
